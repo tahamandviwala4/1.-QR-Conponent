@@ -1,0 +1,16 @@
+.image {
+  width: 288px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.container {
+  padding: 20px;
+}
+/* .card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
